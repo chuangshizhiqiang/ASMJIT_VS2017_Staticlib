@@ -2,6 +2,7 @@
 The static library template of asmjit.(VS2017)
 
 使用静态库
+
 	1、添加引用
 	2、请在用到的项目中添加 
 		/D "ASMJIT_STATIC" 
