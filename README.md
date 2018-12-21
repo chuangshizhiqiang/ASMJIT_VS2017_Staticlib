@@ -10,3 +10,10 @@ The static library template of asmjit.(VS2017)
 		#include "../ASMJITLIB/asmjit/asmjit.h"
 		using namespace asmjit;
 		
+
+example0
+	
+	一个简单的例子
+example1
+	
+	一个比较全面的例子
